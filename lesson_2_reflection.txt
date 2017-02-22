@@ -11,6 +11,8 @@ It offers the value to control everything and get an overview of all your files 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+You can change all your files and when you are done you "send" them to the the staging area. And in staging are you have a beautiful overview about all your file in which you have made some chenges. You can control them again if you like and then you can commit them to the repository all together. 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
