@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+With the help of a direct comparison of these two files it was quite easy to find the typo.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Maybe you have programmed something which you once liked (or an idea for a client website) then you decided to change it back to something else and a few days or weeks later you need to change it back. Shouldn’t be a problem because everything is still saved.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+Pro: You can save whenever you want to save, whe you think your chenge is just right to make a comit. Con: Maybe you'll forget to save after an important change you have made and then you keep on working and your comit might geht to big.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Also this is because of multiple programmers who are working on different files at the same time. So if they want to comit at the same time they have no issues.
+
+How can you use the commands git log and git diff to view the history of files?
+
+You have to be IN the file, then you do "git log" and the terminal shows you all the comits which have been made in the past. By using "git diff (+ the 2 names of the versions which you want to compare)" you see all the changes which have been made. By using "git config --global color.ui auto" the changes are displayed in different colors.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+It makes me more confident because I know if I "break" something I can always go back to an older version and fix my bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Building a project, comitting my changes several times and have the opportunity to see the history of my comits. 
+
+
+
+
+
+
+
+
+
