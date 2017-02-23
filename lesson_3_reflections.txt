@@ -5,7 +5,7 @@ You have to create a remote repository when you are working from a different com
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+To have a better overview and keep tracking all the changes which have been made. Also when you are working with several programmers it could get confusing when GIT pulls automatically. Maybe there is a conflict. But you wouldn't see it if Git pulls automatically.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
