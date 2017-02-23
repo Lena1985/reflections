@@ -20,8 +20,12 @@ Creating an working in a branch can help you if you want to make a big change or
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams help you de get an overview and to see the structure of your actual project. It helps you to keep track of all which branches include which commits. Sometimes it's a little hard to kep the overview especially when you are in a very big project and working with other programmers.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+The result is that GIT compares the changes which have been made and put them together as one file. Still it's possible to see the history of the changes which have been made. You represent it the way you do to make clear that a merge is something which is "parallel" to the master and you can merge them together and any point you like to.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
