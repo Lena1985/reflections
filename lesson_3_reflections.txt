@@ -16,7 +16,7 @@ Forks is perfect if you want to work in a file only for you (i.e. a project from
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+If you lose your Internet connection or are in a place where is noc internet connection you cann still work on your last version which is stored locally.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
