@@ -26,4 +26,4 @@ Collaborating without GitHub is nearly impossible. You alwaqys have to stay in c
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+If you are working on a larger project with several programmers and two or more want to work on the same file from the master every programmer can create it's own seperate branch. In the end when everyone is done you cann compare all the different branches and decide which changes you want to take.
