@@ -21,7 +21,7 @@ If you lose your Internet connection or are in a place where is noc internet con
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Collaborating without GitHub is nearly impossible. You alwaqys have to stay in contact with your collaborator and when you are working on the the same file you have to compare which changes have been made. I don't see any arguments where it would be easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
