@@ -10,7 +10,8 @@ To have a better overview and keep tracking all the changes which have been made
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks are only on GitHub. If you fork a project it won't be automatically on your local device. If you want to have it locally in your files you need to clone it an pull it to your repository. A branch is like a new working area from your project, it's running parallel to your master, you can work in it without destroying something because it's not effecting the master as long as you are not commiting it to the master. It's runnning locally and on GitHub.
+Forks is perfect if you want to work in a file only for you (i.e. a project from someone else) without effecting the original project. Cloning is also if you want to change something in a file but locally. A branch is good when you are working  on project and change something which you still don't now if you want to commit it to the master.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
